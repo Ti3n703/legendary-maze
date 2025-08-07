@@ -1,1 +1,1 @@
-# legendary-maze
+# the_greatest_maze_game
